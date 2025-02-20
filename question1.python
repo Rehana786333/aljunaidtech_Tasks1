@@ -1,0 +1,14 @@
+# Declaring variables
+name ="rehana"
+age="27"
+gender="female"
+adress="G11/2 ,markz, ISLAMABAD"
+# printing the information
+print(".......personal information......")
+print("name:",name)
+print("age:",age)
+print("gender:",gender)
+print("adress:",adress)
+
+ 
+
